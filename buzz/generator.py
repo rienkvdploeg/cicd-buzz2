@@ -21,7 +21,6 @@ def generate_buzz():
 
 
 if __name__ == "__main__":
-    print("Greetings from Rienk")
     print(generate_buzz())
     
     
